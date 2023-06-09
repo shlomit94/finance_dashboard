@@ -1,4 +1,3 @@
-import React from "react";
 import { useMemo } from "react";
 import { useTheme } from "@mui/material";
 import DashboardBox from "@/components/DashboardBox";
